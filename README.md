@@ -10,3 +10,4 @@ Go to https://min.io/docs/minio/windows/index.html to setup MinIO for Windows.
 - MongoDB connections to retrieve, save, and delete data (users, playlists, and songs)
 - Support for MinIO S3 storage (storage used for songs)
 - AWS signing support for MinIO private access
+- SMTP email server connection for sending verification codes
